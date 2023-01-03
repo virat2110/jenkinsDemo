@@ -33,7 +33,7 @@ scenarios:
         Content-Type: application/x-www-form-urlencoded
       body:
         airline: United Airlines
-        flight: '235'
+        flight: '236'
         fromPort: Boston
         price: '432.98'
         toPort: London
